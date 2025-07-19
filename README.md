@@ -3,7 +3,7 @@
 This project aims to build a predictive model using real patient data to identify diabetic patients at risk of readmission. By flagging high-risk cases early, hospitals can take proactive measures to improve care and reduce costs. It focuses on helping healthcare providers identify which patients are likely to be readmitted within 30 days of discharge, so they can intervene early.
 
 # 📚 Data
-Source: UCI Machine Learning Repository /n
+Source: UCI Machine Learning Repository\
 Dataset: Diabetes 130-US hospitals for years 1999–2008
 Size: 100,000+ patient records
 Focus: Diabetic patient encounters from 130 US hospitals over 10 years
