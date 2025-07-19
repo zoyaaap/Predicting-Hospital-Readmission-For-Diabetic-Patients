@@ -10,7 +10,7 @@ Focus: Diabetic patient encounters from 130 US hospitals over 10 years\
 
 # 🛠️ Techniques Used
 Data Cleaning: Handling missing values (?), converting categorical variables, removing invalid entries\
-Exploratory Data Analysis (EDA): Patient distribution, readmission patterns, length of stay
+Exploratory Data Analysis (EDA): Patient distribution, readmission patterns, length of stay\
 Feature Engineering: Encoding diagnosis columns, grouping discharge types, binarizing readmission outcome (≤30 days vs. others)\
 Modeling: XGBoost\
 Model Evaluation: Accuracy, Precision, Recall, F1 Score, ROC-AUC
