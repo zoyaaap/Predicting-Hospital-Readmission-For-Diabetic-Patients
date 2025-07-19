@@ -6,7 +6,7 @@ This project aims to build a predictive model using real patient data to identif
 Source: UCI Machine Learning Repository\
 Dataset: Diabetes 130-US hospitals for years 1999–2008\
 Size: 100,000+ patient records\
-Focus: Diabetic patient encounters from 130 US hospitals over 10 years\
+Focus: Diabetic patient encounters from 130 US hospitals over 10 years
 
 # 🛠️ Techniques Used
 Data Cleaning: Handling missing values (?), converting categorical variables, removing invalid entries\
