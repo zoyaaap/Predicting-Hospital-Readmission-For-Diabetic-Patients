@@ -17,6 +17,7 @@ Model Evaluation: Accuracy, Precision, Recall, F1 Score, ROC-AUC
 
 # 🤖 Model Performance and Evaluation
 The final model achieved an impressive 94% overall accuracy on the test set, with a ROC AUC score of 0.9586, indicating excellent ability to distinguish between readmitted and non-readmitted patients. The classification report showed a precision of 0.99 and a recall of 0.88 for the positive class (readmitted), resulting in a strong F1-score of 0.93. This means the model is highly reliable in predicting readmissions, accurately identifying 88% of true readmission cases while maintaining a low false positive rate. The model also performed well on the negative class, ensuring balanced performance across both outcomes. These metrics suggest the model is suitable for real-world clinical use, where early identification of at-risk patients can help reduce costs and improve patient care outcomes.
+<img width="919" height="671" alt="image" src="https://github.com/user-attachments/assets/ed8ef23a-5a90-47e3-a3c9-70bf21ed3b2d" />
 
 # 🔍 Key Insights
 1. Number of prior inpatient visits was a strong predictor of readmission.
